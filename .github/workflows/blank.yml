@@ -52,7 +52,4 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: C
-          plugin_code: yes
-          plugin_code_languages: javascript, typescript, c, blade, php, lua
-          plugin_code_load: 400
 
