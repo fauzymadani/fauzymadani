@@ -22,6 +22,8 @@
     <img width="425" align="right" src="/github-metrics.svg" />
   </a>
   </a>
+  <a href="https://discord.com/users/1324921938338123788">
+    <img width="380" align="left" height="195" src="https://lanyard.cnrad.dev/api/1324921938338123788?bg=FFFFFF00&animated=true&idleMessage=Well%2C%20the%20world%20sucks%2C%20but%20at%20least%20i'm%20using%20linux&borderRadius=30px" /></a>
   <img
     width="380"
     align="left"
