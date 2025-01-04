@@ -32,7 +32,6 @@
   <a href="https://wakatime.com/@fauzymadani">
 <img width="380" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=fauzymadani&layout=compact&theme=dark"/>
   </a>
-  <img width="380" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzymadani&layout=donut&theme=dark">
   <br />
   <img
     width="380"
