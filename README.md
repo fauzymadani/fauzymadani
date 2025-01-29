@@ -44,3 +44,5 @@
       <img align="center" src="https://komarev.com/ghpvc/?username=fauzymadani&style=flat-square&base=500&labelColor=545454&color=313131" /> 
       <a href="https://github.com/grindhousedev/grindlines"><img align="center" src="https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131"></a>
 </p>
+
+donate monero: `42uxCqPSig2JZa6CBnS8pSHdxnrj7q4wqVN2xjZkfFZn4adJHyjuEpxKmcWSGjFoixTteDPM2b7tNAkzKdiMkpTY2Yd6XYh`
