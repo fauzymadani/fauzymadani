@@ -60,7 +60,7 @@
   <tr>
     <td align="center">
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfel1011-openapi-fundamentals">
-        <img src="https://images.credly.com/size/150x150/images/702cdbe4-2925-496b-a77f-96fdf90404a7/blob" width="100"/>
+        <img src="https://images.credly.com/size/200x200/images/702cdbe4-2925-496b-a77f-96fdf90404a7/blob" width="100"/>
       </a>
     </td>
     <td><b>OpenAPI Fundamentals</b></td>
@@ -70,7 +70,7 @@
   <tr>
     <td align="center">
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfel1014-scaling-cloud-native-applications-with-ked">
-        <img src="https://images.credly.com/size/150x150/images/c35303ff-2b71-4f77-8fb2-c985c39dbf7f/blob" width="100"/>
+        <img src="https://images.credly.com/size/200x200/images/c35303ff-2b71-4f77-8fb2-c985c39dbf7f/blob" width="100"/>
       </a>
     </td>
     <td><b>Cloud Native App with KEDA</b></td>
