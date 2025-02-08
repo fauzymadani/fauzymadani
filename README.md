@@ -33,8 +33,6 @@
 <img width="380" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=fauzymadani&layout=compact&theme=dark"/>
   </a>
   <br />
-
-donate monero: `42uxCqPSig2JZa6CBnS8pSHdxnrj7q4wqVN2xjZkfFZn4adJHyjuEpxKmcWSGjFoixTteDPM2b7tNAkzKdiMkpTY2Yd6XYh`
   
   <img
     width="380"
@@ -47,3 +45,9 @@ donate monero: `42uxCqPSig2JZa6CBnS8pSHdxnrj7q4wqVN2xjZkfFZn4adJHyjuEpxKmcWSGjFo
       <img align="center" src="https://komarev.com/ghpvc/?username=fauzymadani&style=flat-square&base=500&labelColor=545454&color=313131" /> 
       <a href="https://github.com/grindhousedev/grindlines"><img align="center" src="https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131"></a>
 </p>
+<br>
+
+
+## Certification
+[![Linux Foundation OpenAPI Fundamentals](https://images.credly.com/size/205x250/images/702cdbe4-2925-496b-a77f-96fdf90404a7/blob)](https://www.credly.com/org/the-linux-foundation/badge/lfel1011-openapi-fundamentals)
+
