@@ -49,4 +49,34 @@
 
 
 # Certification
-[![Linux Foundation OpenAPI Fundamentals](https://images.credly.com/size/200x200/images/702cdbe4-2925-496b-a77f-96fdf90404a7/blob)](https://www.credly.com/org/the-linux-foundation/badge/lfel1011-openapi-fundamentals)   [![Linux Foundation Cloud Native App with KEDA](https://images.credly.com/size/200x200/images/c35303ff-2b71-4f77-8fb2-c985c39dbf7f/blob)](https://www.credly.com/org/the-linux-foundation/badge/lfel1014-scaling-cloud-native-applications-with-ked)
+
+<table>
+  <tr>
+    <th>Badge</th>
+    <th>Certification Name</th>
+    <th>Description</th>
+    <th>Issued By</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/org/the-linux-foundation/badge/lfel1011-openapi-fundamentals">
+        <img src="https://images.credly.com/size/150x150/images/702cdbe4-2925-496b-a77f-96fdf90404a7/blob" width="100"/>
+      </a>
+    </td>
+    <td><b>OpenAPI Fundamentals</b></td>
+    <td>Basic understanding of OpenAPI and API specifications.</td>
+    <td>The Linux Foundation</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/org/the-linux-foundation/badge/lfel1014-scaling-cloud-native-applications-with-ked">
+        <img src="https://images.credly.com/size/150x150/images/c35303ff-2b71-4f77-8fb2-c985c39dbf7f/blob" width="100"/>
+      </a>
+    </td>
+    <td><b>Cloud Native App with KEDA</b></td>
+    <td>Scaling cloud-native applications using Kubernetes-based Event Driven Autoscaling (KEDA).</td>
+    <td>The Linux Foundation</td>
+  </tr>
+</table>
+
+
