@@ -48,6 +48,6 @@
 <br>
 
 
-## Certification
-[![Linux Foundation OpenAPI Fundamentals](https://images.credly.com/size/205x250/images/702cdbe4-2925-496b-a77f-96fdf90404a7/blob)](https://www.credly.com/org/the-linux-foundation/badge/lfel1011-openapi-fundamentals)
+# Certification
+[![Linux Foundation OpenAPI Fundamentals](https://images.credly.com/size/200x200/images/702cdbe4-2925-496b-a77f-96fdf90404a7/blob)](https://www.credly.com/org/the-linux-foundation/badge/lfel1011-openapi-fundamentals)
 
