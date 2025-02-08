@@ -49,6 +49,4 @@
 
 
 # Certification
-[![Linux Foundation OpenAPI Fundamentals](https://images.credly.com/size/200x200/images/702cdbe4-2925-496b-a77f-96fdf90404a7/blob)](https://www.credly.com/org/the-linux-foundation/badge/lfel1011-openapi-fundamentals)
-
-[![Linux Foundation Cloud Native App with KEDA](https://images.credly.com/size/200x200/images/c35303ff-2b71-4f77-8fb2-c985c39dbf7f/blob)](https://www.credly.com/org/the-linux-foundation/badge/lfel1014-scaling-cloud-native-applications-with-ked)
+[![Linux Foundation OpenAPI Fundamentals](https://images.credly.com/size/200x200/images/702cdbe4-2925-496b-a77f-96fdf90404a7/blob)](https://www.credly.com/org/the-linux-foundation/badge/lfel1011-openapi-fundamentals)   [![Linux Foundation Cloud Native App with KEDA](https://images.credly.com/size/200x200/images/c35303ff-2b71-4f77-8fb2-c985c39dbf7f/blob)](https://www.credly.com/org/the-linux-foundation/badge/lfel1014-scaling-cloud-native-applications-with-ked)
