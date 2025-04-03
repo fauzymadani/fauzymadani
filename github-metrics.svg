@@ -1334,14 +1334,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">fauzymadani/kickstart.nvim</span>
+                                        <span class="repo">fauzymadani/dwm-ricing-guide</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c9cdefb</div>
-                                        <div class="message">add tabline and disable harpoon tabline</div>
+                                        <div class="sha">#9fb2870</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -1354,14 +1354,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">fauzymadani/dwm-kanagawa-rice</span>
+                                        <span class="repo">fauzymadani/dwm-ricing-guide</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a28c556</div>
-                                        <div class="message">optimizing the script by just running some module just 1 times</div>
+                                        <div class="sha">#65cbe30</div>
+                                        <div class="message">Create greetings.yml</div>
                                     </div>
                                 </div>
                             </section>
@@ -1374,14 +1374,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">fauzymadani/dwm-kanagawa-rice</span>
+                                        <span class="repo">fauzymadani/dwm-ricing-guide</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f555a59</div>
-                                        <div class="message">add more modules</div>
+                                        <div class="sha">#17683b7</div>
+                                        <div class="message">Create LICENSE</div>
                                     </div>
                                 </div>
                             </section>
