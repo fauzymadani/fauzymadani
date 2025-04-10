@@ -46,5 +46,3 @@
       <a href="https://github.com/grindhousedev/grindlines"><img align="center" src="https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131"></a>
 </p>
 <br>
-
-[![wakatime](https://wakatime.com/badge/user/a594c1fc-1df9-462d-a9b3-a9837e35da31.svg)](https://wakatime.com/@a594c1fc-1df9-462d-a9b3-a9837e35da31)
