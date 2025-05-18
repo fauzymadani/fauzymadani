@@ -51,5 +51,4 @@ jobs:
           plugin_isocalendar_duration: half-year
           plugin_code: yes
           plugin_code_lines: 5
-          plugin_code_languages: c, javascript, typescript, blade, php, rust, bash, python
           
