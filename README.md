@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lowlighter/metrics">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img width="425" align="right" src="/github-metrics.svg" />
   </a>
   </a>
