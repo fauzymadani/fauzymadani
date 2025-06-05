@@ -46,3 +46,6 @@
       <a href="https://github.com/grindhousedev/grindlines"><img align="center" src="https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131"></a>
 </p>
 <br>
+
+
+[![activity](https://github-readme-activity-graph.vercel.app/graph?username=fauzymadani&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
