@@ -37,7 +37,7 @@
   <img
     width="380"
     align="left"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5C5C5&background=FF000000&center=true&vCenter=true&random=false&width=380&height=100&repeat=false&lines=I+use+debian+btw."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5C5C5&background=FF000000&center=true&vCenter=true&random=false&width=380&height=100&repeat=false&lines=七転び八起き"
   />
 </p>
 
@@ -46,6 +46,3 @@
       <a href="https://github.com/grindhousedev/grindlines"><img align="center" src="https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131"></a>
 </p>
 <br>
-
-
-[![dino](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTl6OWN1ZDhxNDM1bHd4N2Z4dnJsOHNqdGFsb3Uxc2htM2o1YjJ5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11XxC0wD3jVSCI/giphy.gif)
