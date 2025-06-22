@@ -48,4 +48,4 @@
 <br>
 
 
-[![activity](https://github-readme-activity-graph.vercel.app/graph?username=fauzymadani&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![dino](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTl6OWN1ZDhxNDM1bHd4N2Z4dnJsOHNqdGFsb3Uxc2htM2o1YjJ5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11XxC0wD3jVSCI/giphy.gif)
