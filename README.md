@@ -37,7 +37,7 @@
   <img
     width="380"
     align="left"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5C5C5&background=FF000000&center=true&vCenter=true&random=false&width=380&height=100&repeat=false&lines=I+Use+Linux+Btw..."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5C5C5&background=FF000000&center=true&vCenter=true&random=false&width=380&height=100&repeat=false&lines=I+Use+Arch+Btw..."
   />
 </p>
 
