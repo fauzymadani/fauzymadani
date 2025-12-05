@@ -27,11 +27,11 @@
   <img
     width="380"
     align="left"
-    src="https://github-readme-stats.vercel.app/api?username=fauzymadani&show_icons=true&theme=dark"
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=fauzymadani&show_icons=true&theme=dark"
   /></br>
-  <a href="https://wakatime.com/@fauzymadani">
-<img width="380" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=fauzymadani&layout=compact&theme=dark"/>
-  </a>
+  <!-- <a href="https://wakatime.com/@fauzymadani">
+<img width="380" align="left" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/wakatime?username=@fauzymadani&layout=compact"/>
+  </a> -->
   <br />
   
   <img
