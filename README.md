@@ -46,3 +46,4 @@
       <a href="https://github.com/grindhousedev/grindlines"><img align="center" src="https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131"></a>
 </p>
 <br>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTh3NjM0a240ZnExNGlrbWZ1Mm96MTY4YWh6c2RvZnNzcGgwdjJqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QWawolwel5mTnhJ9gH/giphy.gif" />
