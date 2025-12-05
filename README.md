@@ -22,6 +22,9 @@
     <img width="425" align="right" src="/github-metrics.svg" />
   </a>
   </a>
+  <img 
+    height="250"
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTh3NjM0a240ZnExNGlrbWZ1Mm96MTY4YWh6c2RvZnNzcGgwdjJqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QWawolwel5mTnhJ9gH/giphy.gif" />
   <a href="https://discord.com/users/1324921938338123788">
     <img width="380" align="left" height="195" src="https://lanyard.cnrad.dev/api/1324921938338123788?bg=FFFFFF00&animated=true&idleMessage=Well%2C%20the%20world%20sucks%2C%20but%20at%20least%20i'm%20using%20linux&borderRadius=30px" /></a>
   <img
@@ -46,6 +49,3 @@
       <a href="https://github.com/grindhousedev/grindlines"><img align="center" src="https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131"></a>
 </p>
 <br>
-  <img 
-    height="250"
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTh3NjM0a240ZnExNGlrbWZ1Mm96MTY4YWh6c2RvZnNzcGgwdjJqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QWawolwel5mTnhJ9gH/giphy.gif" />
