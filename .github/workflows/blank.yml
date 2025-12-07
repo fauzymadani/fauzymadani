@@ -43,8 +43,6 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_people: yes
-          plugin_people_types: contributors, watchers, followers
           plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
