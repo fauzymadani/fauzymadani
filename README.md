@@ -27,11 +27,11 @@
     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTh3NjM0a240ZnExNGlrbWZ1Mm96MTY4YWh6c2RvZnNzcGgwdjJqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QWawolwel5mTnhJ9gH/giphy.gif" />
   <a href="https://discord.com/users/1324921938338123788">
     <img width="380" align="left" height="195" src="https://lanyard.cnrad.dev/api/1324921938338123788?bg=FFFFFF00&animated=true&idleMessage=Well%2C%20the%20world%20sucks%2C%20but%20at%20least%20i'm%20using%20linux&borderRadius=30px" /></a>
-  <img
+  <!-- <img
     width="380"
     align="left"
     src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=fauzymadani&show_icons=true&theme=dark"
-  /></br>
+  /></br> -->
   <!-- <a href="https://wakatime.com/@fauzymadani">
 <img width="380" align="left" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/wakatime?username=@fauzymadani&layout=compact"/>
   </a> -->
