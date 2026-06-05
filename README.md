@@ -49,7 +49,7 @@
       <a href="https://github.com/grindhousedev/grindlines"><img align="center" src="https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131"></a>
 </p>
 <p align="center">
-  <a href="./CV-1.pdf" download>
+  <a href="./Cv-1.pdf" download>
     <img alt="Download CV" src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge" />
   </a>
 </p>
