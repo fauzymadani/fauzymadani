@@ -50,7 +50,7 @@
 </p>
 <p align="center">
   <a href="https://drive.google.com/file/d/1075_bNA4IDvs2tveX1Xmd0QxK_rc1XJi/view?usp=sharing" download>
-    <img alt="Download Resume" src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge" />
+    <img alt="Download Resume" src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge" />
   </a>
 </p>
 <br>
