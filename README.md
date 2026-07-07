@@ -49,8 +49,12 @@
       <a href="https://github.com/grindhousedev/grindlines"><img align="center" src="https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131"></a>
 </p>
 <p align="center">
-  <a href="https://drive.google.com/file/d/1075_bNA4IDvs2tveX1Xmd0QxK_rc1XJi/view?usp=sharing" download>
+  <a href="https://drive.google.com/file/d/1OqAvv05b81bjaj1TvAq8dklTR1pAVeSQ/view?usp=sharing" download>
     <img alt="Download Resume" src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge" />
   </a>
 </p>
 <br>
+
+> [!NOTE]
+> **Privacy Notice:** To avoid public doxxing [1], this version of my resume has been redacted. 
+> Please **[Contact Me via LinkedIn](https://www.linkedin.com/in/fauzymadani/)** or **[Email](mailto:fauzymadani3@gmail.com)** to request the full version containing my phone number and precise location.
